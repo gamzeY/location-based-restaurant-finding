@@ -1,0 +1,23 @@
+<resources>
+    <!-- <string name="app_name">MySQL Selector</string>-->
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigation">Nerde Ne Yesem?</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps_fragment">Map</string>
+
+
+    <string name="hello_world">Haritadan iki konuma dokunun</string>
+    <string name="distance_time">Mesafe</string>
+
+    <string-array name="Restorantlar">
+        <item>Komegene</item>
+
+    </string-array>
+</resources>
